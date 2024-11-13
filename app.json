@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "c8e5f26d-96af-4924-a9ad-68e0fc3b69ba"
+      }
+    },
+    "owner": "ian_pimentel"
   }
 }
